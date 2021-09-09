@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Banana Bingo](https://github.com/LaLeonie/Banana_Bingo)
 
-- 🌱 I’m currently learning **React, Redux, Jest**
+- 🌱 I’m currently learning **D3.js, Jest and Typescript**
 
 - 👩‍🎓 I learned web development at [Founders & Coders Bootcamp](https://www.foundersandcoders.com/)
 
