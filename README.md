@@ -11,7 +11,7 @@
 
 - 👨‍💻 My dearest projects are available at [leoniezorzi.com](leoniezorzi.com)
 
-- 📜 Want to find out more? Check out my [CV](https://github.com/LaLeonie/LaLeonie/blob/main/Leonie%20Zorzi_CV_June2021.pdf)
+- 📜 Want to find out more? Check out my [CV](https://github.com/LaLeonie/LaLeonie/blob/main/Leonie%20Zorzi_CV_2021.pdf)
 
 - 💬 Ask me about **being a career-changing mum**
 
