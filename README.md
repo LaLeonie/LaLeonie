@@ -9,7 +9,7 @@
 
 - 👩‍🎓 I learned web development at [Founders & Coders Bootcamp](https://www.foundersandcoders.com/)
 
-- 👨‍💻 My dearest projects are available at [leoniezorzi.com](leoniezorzi.com)
+- 👨‍💻 My dearest projects are available at [leonie-zorzi.com](leonie-zorzi.com)
 
 - 📜 Want to find out more? Check out my [CV](https://github.com/LaLeonie/LaLeonie/blob/main/Leonie%20Zorzi_CV_2021.pdf)
 
